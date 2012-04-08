@@ -1,0 +1,9 @@
+# Knitting Patterns for HTML5 #
+
+The purpose of this project is to provide client-side developers with a set of basic pages against which they can test their stylesheets.
+
+Pattern1 simply contains a list of text, list, table and form tags against which styling can be applied.
+
+Further patterns will contain more real-world pages that stylesheets might need to take into account; white spacing, long words, code samples and the like.
+
+Contributions of new patterns and improvements on existing ones are welcome.
